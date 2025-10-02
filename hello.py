@@ -5,3 +5,5 @@ print("name = shradha")
 age = "24"
 price = "25.99"
 print(age, price)
+A = "19"
+print(A)

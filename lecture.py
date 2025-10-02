@@ -127,6 +127,38 @@
 # (len(str))
 # print (len(str))
 
+# indexing - is the way of giving no. to every alphabate 
+
+# str = "Rajan Dahal"
+# print(str[3])
+
+# slicing
+
+str = "apna collage $$"
+# print(str[1:7])
+# print (str[0:len(str)])
+# print(str[-5:])
+
+# print(str.endswith("age"))
+# str = str.capitalize()
+# print(str)
+
+# print(str.replace("o", "a"))
+
+# print(str.find("o"))
+# print(str.count("o"))
+
+# name = input("enter your name : ")
+# print("length of your name is ", len(name))
+
+# print(str.count("$"))
+
+
+
+
+
+
+
 
 
 

@@ -95,7 +95,20 @@
 # print("sum =", first + second)
 
 #practice session
+# A = float(input("side1 ="))
+# B = float(input("side2 ="))
+# print("avg is,", (A+B)/2)
 
-git
+# practice session
 
- 
+# A = int(input("enter first number"))
+# B = int(input("enter second number"))
+# print (A <= B)
+
+
+
+# # val1 = False
+# # val2 = False
+# # print("AND operator:", val1 or val2)
+
+# # print("OR operator:", val1 or val2)

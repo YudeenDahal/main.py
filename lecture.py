@@ -112,3 +112,23 @@
 # # print("AND operator:", val1 or val2)
 
 # # print("OR operator:", val1 or val2)
+
+
+
+# 2nd video
+# # Strings 
+
+# str1 = "this is a stringThis is another string "
+# str2 = "Apna collage"
+# str = "nothing"
+# print(str1+str2 )
+
+
+# (len(str))
+# print (len(str))
+
+
+
+
+
+

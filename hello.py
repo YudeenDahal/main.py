@@ -1,43 +1,101 @@
-# # # """ print("hello world"," my age is 23") 
-# # # print("nothing much")
-# # # print (45+5)
-# # # print("name = shradha")
-# # # age = "24"
+#  # """ print("hello world"," my age is 23") 
+# # # # # # print("nothing much")
+# # # # # # print (45+5)
+# # # # # # print("name = shradha")
+# # # # # # age = "24"
 
-# # # book = age
+# # # # # # book = age
 
-# # # name = ram 
-
-
-
-# # # price = 25.99
-# # # print(age, price)
-# # # A = "19"
-# # # print(A)
-# # # print("my name is: ", age)
-
-# # # print(type(name))
-# # # print(type(age))
-# # # print(type(price))  """
-
-# # age = 23
-# # old  = false 
-# # a = none
-# # print(type(old))
-# # print(type(a))
-
-# # #print("nothing")
-
-a = 6
-b = 6
-
-# print(a+b)
-# print(a-b)
-# print(a*b)
-# print(a/b)
-# print(a%b)
-# print(a**b)
+# # # # # # name = ram 
 
 
-print(a == b)
-print(a != b)
+
+# # # # # # price = 25.99
+# # # # # # print(age, price)
+# # # # # # A = "19"
+# # # # # # print(A)
+# # # # # # print("my name is: ", age)
+
+# # # # # # print(type(name))
+# # # # # # print(type(age))
+# # # # # # print(type(price))  """
+
+# # # # # age = 23
+# # # # # old  = false 
+# # # # # a = none
+# # # # # print(type(old))
+# # # # # print(type(a))
+
+# # # # # #print("nothing")
+
+# # a = 6
+# # b = 6
+
+# # # # print(a+b)
+# # # # print(a-b)
+# # # # print(a*b)
+# # # # print(a/b)
+# # # # print(a%b)
+# # # # print(a**b)
+
+
+# # # print(a == b)
+# # # print(a != b)
+# # # print(a > b)
+# # # print(a < b)
+# # # print(a == b)
+# # # print(a != b)
+
+# # # num = 10
+# # # num = 10 + num
+# # # print("num is : ", num)
+
+
+
+
+# # # print(not (a>b))
+
+# # print(not False)
+# # print(not (a>b))
+
+# # val1 = False
+# # val2 = False
+# # print("AND operator:", val1 or val2)
+
+# # print("OR operator:", val1 or val2)
+
+
+# a, b = 1,2.1
+# sum = a + b
+# print (sum)
+
+# name = input ("enter you name :")
+# print ("welcome,", name)
+
+# val =  int(input("enter some value :"))
+# print(type(val), val)
+
+
+# name = input("enter your name :")
+# print ("welcome,", name)
+# marks = input("enter your marks in physics :")
+# print ("Your grade is,", marks)
+# address = input("enter your addres :")
+# print ("Your address is,,", address)
+
+
+# print ("your biodata is,", name, marks, address )
+
+# practice session
+
+
+# first = int(input("Enter any first number : "))
+# second = int(input("Enter any second number : "))
+
+# print("sum =", first + second)
+
+#practice session
+
+git
+
+ 

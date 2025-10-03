@@ -134,7 +134,7 @@
 
 # slicing
 
-str = "apna collage $$"
+# str = "apna collage $$"
 # print(str[1:7])
 # print (str[0:len(str)])
 # print(str[-5:])
@@ -153,13 +153,25 @@ str = "apna collage $$"
 
 # print(str.count("$"))
 
+# light = "red "
+# if (light == "red"):
+#     print("stop")
+#     elif(light == "green"):
+#         print("go")
+#         elif(light == "yekkiw"):
+#             print("look")
+#     print("end of code")
+light = "red"
 
+if light == "red":
+    print("stop")
+elif light == "green":
+    print("go")
+elif light == "yellow":
 
+    print("look")
 
-
-
-
-
+print("end of code")
 
 
 

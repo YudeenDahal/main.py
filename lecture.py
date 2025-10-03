@@ -161,18 +161,76 @@
 #         elif(light == "yekkiw"):
 #             print("look")
 #     print("end of code")
-light = "red"
+# light = "red"
 
-if light == "red":
-    print("stop")
-elif light == "green":
-    print("go")
-elif light == "yellow":
+# if light == "red":
+#     print("stop")
+# elif light == "green":
+#     print("go")
+# elif light == "yellow":
 
-    print("look")
+#     print("look")
 
-print("end of code")
+# print("end of code")
+
+# num = 5 
+
+# if num > 4:
+#     print("number is greater")
+# elif num < 2:
+#     print("number is not greater")
+# else:
+#     print("number is between 2 and 8")
+
+# print("the code ended")
 
 
 
+# num = 5
 
+# if (num == 5):
+#     print("num is greater")
+# else:
+#     print("number is nto greater") 
+
+
+# marks = int(input("enter your grade, "))
+
+# if(marks >= 90) :
+#     print("You're grade is A")
+# elif(marks >= 80) and marks < 90 :
+#     print("You're grade is B")
+# elif(marks >= 70) and marks < 80 :
+#     print("You're grade is C")
+# else :
+#     print("You're grade is D")
+
+# age = int(input("Your age is, "))
+# if (age >= 18) :
+#     if (age >= 80) :
+#         print("cannot drive")
+#     else:
+#         print("can drive ")
+
+# num = int(input("give any number : "))
+# if(num % 2 == 0):
+#     print("your number is even", num)
+# else :
+#     print ("your number is odd")
+
+
+# num1 = int(input("Give any first number, "))
+# num2 = int(input("Give any second number, "))
+# num3 = int(input("Give any third number, "))
+# if (num1 > num2 and num1 > num3 ):
+#     print("First number is greater", num1)
+# if (num2 > num1 and num2 > num3 ):
+#     print("second number is greater", num2)
+# if (num3 > num2 and num3 > num1 ):
+    # print("third number is greater", num3)
+
+# num = int(input("give any number"))
+# if (num % 7 == 0):
+#     print("number is multiple of 7")
+# else:
+#     print("number is not multiple of 7")

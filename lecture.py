@@ -493,4 +493,69 @@
 #     print(count)
 #     count -= 1
 
+# i = int(input("enter any number that you want to get the multipliciation table of: ")) 
+# a = 1 
+# while a <= 10 :
+#     print(a*i)
+#     a += 1
+# print("loop ended")
+ 
 
+# i = 1 
+# while i <= 10 : 
+#     print(i*i)
+#     i += 1
+
+
+# qn 5.
+# nums = (1, 4, 9,  16, 25, 36, 49, 64, 81, 100)
+
+# x = int(input("enter the number you want to search : "))
+
+# i = 0
+# while i < len(nums) :
+#     if(nums[i] == x):
+#         print("found at idx: ", i+1) 
+#     i += 1
+
+# else :
+#     print("there is no such number is the program")
+
+
+# i = 0
+# b = int(input("enter at how much you want to print, : "))
+# while i <= b:
+#     print(i)
+#     i += 2
+
+# str = ("Olin")
+# for  val in str:
+#     if(str == "o"):
+#         print("o has found")
+#         break
+#     print(val)
+#     print("code has end")
+
+# nums = [1, 4, 9, 16, 25, 26]
+# x = 9
+# idx = 0
+# for el in nums:
+#     if (el == x):
+#         print("number found at idx", idx+1)
+#         break
+#     idx +=1
+
+
+# seq = range(100)
+# for i in seq:
+# #     print(i)
+    
+
+# for i in range(1, 100, 2):
+#     print(i)
+
+# i = 1
+# n = int(input("enter how much you want to make the sequence, : "))
+# while i <= n:
+#     print(i)
+#     i +=1

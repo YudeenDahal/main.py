@@ -558,4 +558,7 @@
 # n = int(input("enter how much you want to make the sequence, : "))
 # while i <= n:
 #     print(i)
-#     i +=1
+#     i +=
+
+
+

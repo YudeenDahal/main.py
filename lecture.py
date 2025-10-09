@@ -695,11 +695,32 @@
 # print(type(data))
 # f.close()
 
+# a = 5
+# b = 6
+ 
+# sum = a + b 
+# difference = a - b 
+# print(sum)
+# print(difference) 
 
 
+class student:
+    name = "karan katuwal"
+    def __init__(self):  
+        print(self)  
+        print("adding new student in database")
+    
+    role = "41"
+s1 = student()
+print(s1.name, s1.role)
 
+class car :
+    color = "blue"
+    model = "Tata Neno"
 
-
+car1 = car()
+print(car1.color, car1.model)
+print(car1)
 
 
  

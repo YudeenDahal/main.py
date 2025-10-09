@@ -671,8 +671,38 @@
 # # print(n)
 # show(5)
 
+# def fact(n):
+#     if (n == 0):
+#         return 1
+#     return fact(n-1) * n
+
+# print(fact(9))
+
+# def cal(n):
+#     if (n == 0):
+#         return 0
+#     # print(n)
+#     return cal(n-1) + 5
+
+# sum = cal(5)
+# print(sum)
+
+# chapter 7 file I/O 
+
+# f = open("demo.txt", "r")
+# data = f.read()
+# print(data)
+# print(type(data))
+# f.close()
 
 
+
+
+
+
+
+
+ 
 
 
 

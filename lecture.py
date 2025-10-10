@@ -704,26 +704,33 @@
 # print(difference) 
 
 
-class student:
-    name = "karan katuwal"
-    def __init__(self):  
-        print(self)  
-        print("adding new student in database")
+# class student:
+#     name = "karan katuwal"
+#     def __init__(self):  
+#         print(self)  
+#         print("adding new student in database")
     
-    role = "41"
-s1 = student()
-print(s1.name, s1.role)
+#     role = "41"
+# s1 = student()
+# print(s1.name, s1.role)
 
-class car :
-    color = "blue"
-    model = "Tata Neno"
+# class car :
+#     color = "blue"
+#     model = "Tata Neno"
 
-car1 = car()
-print(car1.color, car1.model)
-print(car1)
+# car1 = car()
+# print(car1.color, car1.model)
+# print(car1)
 
 
- 
+
+
+# a = float(input("enter any num. U want to know it's sign, : "))
+# if a % 2 ==0:
+#     print("number is Even")
+# else:
+#     print("number is ODD")
+
 
 
 

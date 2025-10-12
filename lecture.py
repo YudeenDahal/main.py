@@ -1,693 +1,693 @@
-# # # """ print("hello world"," my age is 23") 
-# #  ## print("nothing much")
-# # # # # # # # # # # # # # # # # print (45+5)
-# # # # # # # # # # # # # # # # # print("name = shradha")
-# # # # # # # # # # # # # # # # # age = "24"
+# # # # """ print("hello world"," my age is 23") 
+# # #  ## print("nothing much")
+# # # # # # # # # # # # # # # # # # print (45+5)
+# # # # # # # # # # # # # # # # # # print("name = shradha")
+# # # # # # # # # # # # # # # # # # age = "24"
 
-# # # # # # # # # # # # # # # # # book = age
+# # # # # # # # # # # # # # # # # # book = age
 
-# # # # # # # # # # # # # # # # # name = ram 
+# # # # # # # # # # # # # # # # # # name = ram 
 
 
 
-# #                               price = 25.99
-# #                               print(age, price)
-# #                               A = "19"
-# #                               print(A)
-# #                               print("my name is: ", age)
+# # #                               price = 25.99
+# # #                               print(age, price)
+# # #                               A = "19"
+# # #                               print(A)
+# # #                               print("my name is: ", age)
 
-# #                               print(type(name))
-# #                               print(type(age))
-# #                               print(type(price))  """
+# # #                               print(type(name))
+# # #                               print(type(age))
+# # #                               print(type(price))  """
 
-# #                             age = 23
-# #                             old  = false 
-# #                             a = none
-# #                             print(type(old))
-# #                             print(type(a))
+# # #                             age = 23
+# # #                             old  = false 
+# # #                             a = none
+# # #                             print(type(old))
+# # #                             print(type(a))
 
-# #                              print("nothing")
+# # #                              print("nothing")
 
-# #                       a = 6
-# #                       b = 6
+# # #                       a = 6
+# # #                       b = 6
 
-# #                           print(a+b)
-# #                           print(a-b)
-# #                           print(a*b)
-# #                           print(a/b)
-# #                           print(a%b)
-# #                           print(a**b)
+# # #                           print(a+b)
+# # #                           print(a-b)
+# # #                           print(a*b)
+# # #                           print(a/b)
+# # #                           print(a%b)
+# # #                           print(a**b)
 
 
-# #                         print(a == b)
-# #                         print(a != b)
-# #                         print(a > b)
-# #                         print(a < b)
-# #                         print(a == b)
-# #                         print(a != b)
+# # #                         print(a == b)
+# # #                         print(a != b)
+# # #                         print(a > b)
+# # #                         print(a < b)
+# # #                         print(a == b)
+# # #                         print(a != b)
 
-# #                         num = 10
-# #                         num = 10 + num
-# #                         print("num is : ", num)
+# # #                         num = 10
+# # #                         num = 10 + num
+# # #                         print("num is : ", num)
 
 
 
 
-# #                         print(not (a>b))
+# # #                         print(not (a>b))
 
-# #                       print(not False)
-# #                       print(not (a>b))
+# # #                       print(not False)
+# # #                       print(not (a>b))
 
-# #                       val1 = False
-# #                       val2 = False
-# #                       print("AND operator:", val1 or val2)
+# # #                       val1 = False
+# # #                       val2 = False
+# # #                       print("AND operator:", val1 or val2)
 
-# #                       print("OR operator:", val1 or val2)
+# # #                       print("OR operator:", val1 or val2)
 
 
-# #                     a, b = 1,2.1
-# #                     sum = a + b
-# #                     print (sum)
+# # #                     a, b = 1,2.1
+# # #                     sum = a + b
+# # #                     print (sum)
 
-# #                     name = input ("enter you name :")
-# #                     print ("welcome,", name)
+# # #                     name = input ("enter you name :")
+# # #                     print ("welcome,", name)
 
-# #                     val =  int(input("enter some value :"))
-# #                     print(type(val), val)
+# # #                     val =  int(input("enter some value :"))
+# # #                     print(type(val), val)
 
 
-# #                     name = input("enter your name :")
-# #                     print ("welcome,", name)
-# #                     marks = input("enter your marks in physics :")
-# #                     print ("Your grade is,", marks)
-# #                     address = input("enter your addres :")
-# #                     print ("Your address is,,", address)
+# # #                     name = input("enter your name :")
+# # #                     print ("welcome,", name)
+# # #                     marks = input("enter your marks in physics :")
+# # #                     print ("Your grade is,", marks)
+# # #                     address = input("enter your addres :")
+# # #                     print ("Your address is,,", address)
 
 
-# #                     print ("your biodata is,", name, marks, address )
+# # #                     print ("your biodata is,", name, marks, address )
 
-# #                     practice session
+# # #                     practice session
 
 
-# #                     first = int(input("Enter any first number : "))
-# #                     second = int(input("Enter any second number : "))
+# # #                     first = int(input("Enter any first number : "))
+# # #                     second = int(input("Enter any second number : "))
 
-# #                     print("sum =", first + second)
+# # #                     print("sum =", first + second)
 
-# #                    practice session
-# #                     A = float(input("side1 ="))
-# #                     B = float(input("side2 ="))
-# #                     print("avg is,", (A+B)/2)
+# # #                    practice session
+# # #                     A = float(input("side1 ="))
+# # #                     B = float(input("side2 ="))
+# # #                     print("avg is,", (A+B)/2)
 
-# #                     practice session
+# # #                     practice session
 
-# #                     A = int(input("enter first number"))
-# #                     B = int(input("enter second number"))
-# #                     print (A <= B)
+# # #                     A = int(input("enter first number"))
+# # #                     B = int(input("enter second number"))
+# # #                     print (A <= B)
 
 
 
-# #                       val1 = False
-# #                       val2 = False
-# #                       print("AND operator:", val1 or val2)
+# # #                       val1 = False
+# # #                       val2 = False
+# # #                       print("AND operator:", val1 or val2)
 
-# #                       print("OR operator:", val1 or val2)
+# # #                       print("OR operator:", val1 or val2)
 
 
 
-# #                     2nd video
-# #                       Strings 
+# # #                     2nd video
+# # #                       Strings 
 
-# #                     str1 = "this is a stringThis is another string "
-# #                     str2 = "Apna collage"
-# #                     str = "nothing"
-# #                     print(str1+str2 )
+# # #                     str1 = "this is a stringThis is another string "
+# # #                     str2 = "Apna collage"
+# # #                     str = "nothing"
+# # #                     print(str1+str2 )
 
 
-# #                     (len(str))
-# #                     print (len(str))
+# # #                     (len(str))
+# # #                     print (len(str))
 
-# #                     indexing - is the way of giving no. to every alphabate 
+# # #                     indexing - is the way of giving no. to every alphabate 
 
-# #                     str = "Rajan Dahal"
-# #                     print(str[3])
+# # #                     str = "Rajan Dahal"
+# # #                     print(str[3])
 
-# #                     slicing
+# # #                     slicing
 
-# #                     str = "apna collage $$"
-# #       # # # # # # # print(str[1:7])
-# # # # # # # # # # # # print (str[0:len(str)])
-# # # # # # # # # # # # print(str[-5:])
+# # #                     str = "apna collage $$"
+# # #       # # # # # # # print(str[1:7])
+# # # # # # # # # # # # # print (str[0:len(str)])
+# # # # # # # # # # # # # print(str[-5:])
 
-# # # # # # # # # # # # print(str.endswith("age"))
-# # # # # # # # # # # # str = str.capitalize()
-# # # # # # # # # # # # print(str)
+# # # # # # # # # # # # # print(str.endswith("age"))
+# # # # # # # # # # # # # str = str.capitalize()
+# # # # # # # # # # # # # print(str)
 
-# # # # # # # # # # # # print(str.replace("o", "a"))
+# # # # # # # # # # # # # print(str.replace("o", "a"))
 
-# # # # # # # # # # # # print(str.find("o"))
-# # # # # # # # # # # # print(str.count("o"))
+# # # # # # # # # # # # # print(str.find("o"))
+# # # # # # # # # # # # # print(str.count("o"))
 
-# # # # # # # # # # # # name = input("enter your name : ")
-# # # # # # # # # # # # print("length of your name is ", len(name))
+# # # # # # # # # # # # # name = input("enter your name : ")
+# # # # # # # # # # # # # print("length of your name is ", len(name))
 
-# # # # # # # # # # # # print(str.count("$"))
+# # # # # # # # # # # # # print(str.count("$"))
 
-# # # # # # # # # # # # light = "red "
-# # # # # # # # # # # # if (light == "red"):
-# # # # # # # # # # # #     print("stop")
-# # # # # # # # # # # #     elif(light == "green"):
-# # # # # # # # # # # #         print("go")
-# # # # # # # # # # # #         elif(light == "yekkiw"):
-# # # # # # # # # # # #             print("look")
-# # # # # # # # # # # #     print("end of code")
-# # # # # # # # # # # # light = "red"
+# # # # # # # # # # # # # light = "red "
+# # # # # # # # # # # # # if (light == "red"):
+# # # # # # # # # # # # #     print("stop")
+# # # # # # # # # # # # #     elif(light == "green"):
+# # # # # # # # # # # # #         print("go")
+# # # # # # # # # # # # #         elif(light == "yekkiw"):
+# # # # # # # # # # # # #             print("look")
+# # # # # # # # # # # # #     print("end of code")
+# # # # # # # # # # # # # light = "red"
 
-# # # # # # # # # # # # if light == "red":
-# # # # # # # # # # # #     print("stop")
-# # # # # # # # # # # # elif light == "green":
-# # # # # # # # # # # #     print("go")
-# # # # # # # # # # # # elif light == "yellow":
+# # # # # # # # # # # # # if light == "red":
+# # # # # # # # # # # # #     print("stop")
+# # # # # # # # # # # # # elif light == "green":
+# # # # # # # # # # # # #     print("go")
+# # # # # # # # # # # # # elif light == "yellow":
 
-# # # # # # # # # # # #     print("look")
+# # # # # # # # # # # # #     print("look")
 
-# # # # # # # # # # # # print("end of code")
+# # # # # # # # # # # # # print("end of code")
 
-# # # # # # # # # # # # num = 5 
+# # # # # # # # # # # # # num = 5 
 
-# # # # # # # # # # # # if num > 4:
-# # # # # # # # # # # #     print("number is greater")
-# # # # # # # # # # # # elif num < 2:
-# # # # # # # # # # # #     print("number is not greater")
-# # # # # # # # # # # # else:
-# # # # # # # # # # # #     print("number is between 2 and 8")
+# # # # # # # # # # # # # if num > 4:
+# # # # # # # # # # # # #     print("number is greater")
+# # # # # # # # # # # # # elif num < 2:
+# # # # # # # # # # # # #     print("number is not greater")
+# # # # # # # # # # # # # else:
+# # # # # # # # # # # # #     print("number is between 2 and 8")
 
-# # # # # # # # # # # # print("the code ended")
+# # # # # # # # # # # # # print("the code ended")
 
 
 
-# # # # # # # # # # # # num = 5
+# # # # # # # # # # # # # num = 5
 
-# # # # # # # # # # # # if (num == 5):
-# # # # # # # # # # # #     print("num is greater")
-# # # # # # # # # # # # else:
-# # # # # # # # # # # #     print("number is nto greater") 
+# # # # # # # # # # # # # if (num == 5):
+# # # # # # # # # # # # #     print("num is greater")
+# # # # # # # # # # # # # else:
+# # # # # # # # # # # # #     print("number is nto greater") 
 
 
-# # # # # # # # # # # # marks = int(input("enter your grade, "))
+# # # # # # # # # # # # # marks = int(input("enter your grade, "))
 
-# # # # # # # # # # # # if(marks >= 90) :
-# # # # # # # # # # # #     print("You're grade is A")
-# # # # # # # # # # # # elif(marks >= 80) and marks < 90 :
-# # # # # # # # # # # #     print("You're grade is B")
-# # # # # # # # # # # # elif(marks >= 70) and marks < 80 :
-# # # # # # # # # # # #     print("You're grade is C")
-# # # # # # # # # # # # else :
-# # # # # # # # # # # #     print("You're grade is D")
+# # # # # # # # # # # # # if(marks >= 90) :
+# # # # # # # # # # # # #     print("You're grade is A")
+# # # # # # # # # # # # # elif(marks >= 80) and marks < 90 :
+# # # # # # # # # # # # #     print("You're grade is B")
+# # # # # # # # # # # # # elif(marks >= 70) and marks < 80 :
+# # # # # # # # # # # # #     print("You're grade is C")
+# # # # # # # # # # # # # else :
+# # # # # # # # # # # # #     print("You're grade is D")
 
-# # # # # # # # # # # # age = int(input("Your age is, "))
-# # # # # # # # # # # # if (age >= 18) :
-# # # # # # # # # # # #     if (age >= 80) :
-# # # # # # # # # # # #         print("cannot drive")
-# # # # # # # # # # # #     else:
-# # # # # # # # # # # #         print("can drive ")
+# # # # # # # # # # # # # age = int(input("Your age is, "))
+# # # # # # # # # # # # # if (age >= 18) :
+# # # # # # # # # # # # #     if (age >= 80) :
+# # # # # # # # # # # # #         print("cannot drive")
+# # # # # # # # # # # # #     else:
+# # # # # # # # # # # # #         print("can drive ")
 
-# # # # # # # # # # # # num = int(input("give any number : "))
-# # # # # # # # # # # # if(num % 2 == 0):
-# # # # # # # # # # # #     print("your number is even", num)
-# # # # # # # # # # # # else :
-# # # # # # # # # # # #     print ("your number is odd")
+# # # # # # # # # # # # # num = int(input("give any number : "))
+# # # # # # # # # # # # # if(num % 2 == 0):
+# # # # # # # # # # # # #     print("your number is even", num)
+# # # # # # # # # # # # # else :
+# # # # # # # # # # # # #     print ("your number is odd")
 
 
-# # # # # # # # # # # # num1 = int(input("Give any first number, "))
-# # # # # # # # # # # # num2 = int(input("Give any second number, "))
-# # # # # # # # # # # # num3 = int(input("Give any third number, "))
-# # # # # # # # # # # # if (num1 > num2 and num1 > num3 ):
-# # # # # # # # # # # #     print("First number is greater", num1)
-# # # # # # # # # # # # if (num2 > num1 and num2 > num3 ):
-# # # # # # # # # # # #     print("second number is greater", num2)
-# # # # # # # # # # # # if (num3 > num2 and num3 > num1 ):
-# # # # # # # # # # #     # print("third number is greater", num3)
+# # # # # # # # # # # # # num1 = int(input("Give any first number, "))
+# # # # # # # # # # # # # num2 = int(input("Give any second number, "))
+# # # # # # # # # # # # # num3 = int(input("Give any third number, "))
+# # # # # # # # # # # # # if (num1 > num2 and num1 > num3 ):
+# # # # # # # # # # # # #     print("First number is greater", num1)
+# # # # # # # # # # # # # if (num2 > num1 and num2 > num3 ):
+# # # # # # # # # # # # #     print("second number is greater", num2)
+# # # # # # # # # # # # # if (num3 > num2 and num3 > num1 ):
+# # # # # # # # # # # #     # print("third number is greater", num3)
 
-# # # # # # # # # # # # num = int(input("give any number"))
-# # # # # # # # # # # # if (num % 7 == 0):
-# # # # # # # # # # # #     print("number is multiple of 7")
-# # # # # # # # # # # # else:
-# # # # # # # # # # # # #     print("number is not multiple of 7")
+# # # # # # # # # # # # # num = int(input("give any number"))
+# # # # # # # # # # # # # if (num % 7 == 0):
+# # # # # # # # # # # # #     print("number is multiple of 7")
+# # # # # # # # # # # # # else:
+# # # # # # # # # # # # # #     print("number is not multiple of 7")
 
-# # # # # # # # # # # # mark = [90, 40, 60, 670, 28]
-# # # # # # # # # # # # print(mark)
-# # # # # # # # # # # # print(type(mark))
-# # # # # # # # # # # # print(mark[0])
-# # # # # # # # # # # # print(len(mark))
+# # # # # # # # # # # # # mark = [90, 40, 60, 670, 28]
+# # # # # # # # # # # # # print(mark)
+# # # # # # # # # # # # # print(type(mark))
+# # # # # # # # # # # # # print(mark[0])
+# # # # # # # # # # # # # print(len(mark))
 
 
-# # # # # # # # # # # # student = ["karan", "itahari-4"]
-# # # # # # # # # # # # print(student[0])
-# # # # # # # # # # # # student[0] = "Ram"
-# # # # # # # # # # # # print(student)
+# # # # # # # # # # # # # student = ["karan", "itahari-4"]
+# # # # # # # # # # # # # print(student[0])
+# # # # # # # # # # # # # student[0] = "Ram"
+# # # # # # # # # # # # # print(student)
 
-# # # # # # # # # # # # list = [1, 5, 9]
-# # # # # # # # # # # # list.append(4)
-# # # # # # # # # # # # print(list)
+# # # # # # # # # # # # # list = [1, 5, 9]
+# # # # # # # # # # # # # list.append(4)
+# # # # # # # # # # # # # print(list)
         
-# # # # # # # # # # # # list.sort(reverse=True)
+# # # # # # # # # # # # # list.sort(reverse=True)
+# # # # # # # # # # # # # list.sort()
+# # # # # # # # # # # # # print(list)
+
+
+# # # # # # # # # # # # # list.insert(3,5)
+# # # # # # # # # # # # # print(list)
+
+
+# # # # # # # # # # # # # list.remove(5)
+
+# # # # # # # # # # # # # list.pop(3)
+
+# # # # # # # # # # # # # tup = (80,34, 69)
+# # # # # # # # # # # # # print(tup.count(80))
+
+# # # # # # # # # # # # # movies = []
+
+# # # # # # # # # # # # # mov1 = (input("enter your top 1 fav movie: "))
+# # # # # # # # # # # # # mov2 = (input("enter your top 2 fav movie: "))
+# # # # # # # # # # # # # mov3 = (input("enter your top 3 fav movie: "))
+
+# # # # # # # # # # # # # movies.append(mov1)
+# # # # # # # # # # # # # movies.append(mov2)
+# # # # # # # # # # # # # movies.append(mov3)
+
+# # # # # # # # # # # # # print(movies)
+
+
+# # # # # # # # # # # # # list = [1,2,3,2,1]
+
+# # # # # # # # # # # # # if(list.sort(reverse=True) == list.sort()):
+
+# # # # # # # # # # # # #     print("list is palindrome")
+
+# # # # # # # # # # # # # else:
+# # # # # # # # # # # # #     print("list is not palindrome")
+
+
+# # # # # # # # # # # # # nums = [1, 2, 3, 2, 2]
+
+# # # # # # # # # # # # # if nums == nums[::-1]:   # compare list with its reverse
+# # # # # # # # # # # # #     print("list is palindrome")
+
+# # # # # # # # # # # # # else:
+
+# # # # # # # # # # # # #     print("list is not palindrome")
+
+
+# # # # # # # # # # # # list = ["c", "d", "a", "a", "b", "b", "a"]
+# # # # # # # # # # # # # tup.count("a")
+# # # # # # # # # # # # # print(tup.count("a"))
 # # # # # # # # # # # # list.sort()
 # # # # # # # # # # # # print(list)
 
+# # # # # # # # # # # info = {
+# # # # # # # # # # #     "key" : "value",
+# # # # # # # # # # #     "name": "ram",
+# # # # # # # # # # #     "topics" : "book",
+# # # # # # # # # # #     "topic" : "not",
+# # # # # # # # # # # }
 
-# # # # # # # # # # # # list.insert(3,5)
-# # # # # # # # # # # # print(list)
+# # # # # # # # # # # null_dict = {
+# # # # # # # # # # #     "book" : "rpm",
+# # # # # # # # # # # }
 
-
-# # # # # # # # # # # # list.remove(5)
-
-# # # # # # # # # # # # list.pop(3)
-
-# # # # # # # # # # # # tup = (80,34, 69)
-# # # # # # # # # # # # print(tup.count(80))
-
-# # # # # # # # # # # # movies = []
-
-# # # # # # # # # # # # mov1 = (input("enter your top 1 fav movie: "))
-# # # # # # # # # # # # mov2 = (input("enter your top 2 fav movie: "))
-# # # # # # # # # # # # mov3 = (input("enter your top 3 fav movie: "))
-
-# # # # # # # # # # # # movies.append(mov1)
-# # # # # # # # # # # # movies.append(mov2)
-# # # # # # # # # # # # movies.append(mov3)
-
-# # # # # # # # # # # # print(movies)
+# # # # # # # # # # # info["name"] = "apna collage"
+# # # # # # # # # # # # print(info["name"])
+# # # # # # # # # # # # print(null_dict)
 
 
-# # # # # # # # # # # # list = [1,2,3,2,1]
+# # # # # # # # # # # student = {
+# # # # # # # # # # #     "name" : "hari bahadur",
+# # # # # # # # # # #     "subject" : {
+# # # # # # # # # # #         "phycis"    : "30",
+# # # # # # # # # # #         "math"      : "40", 
+# # # # # # # # # # #         "chemistry" : "60",
 
-# # # # # # # # # # # # if(list.sort(reverse=True) == list.sort()):
+# # # # # # # # # # #     }
+# # # # # # # # # # # }
 
-# # # # # # # # # # # #     print("list is palindrome")
+# # # # # # # # # # # print(student["subject"]["math"])
+# # # # # # # # # # # print(student.keys())
+# # # # # # # # # # # print(len(list(student.keys())))
 
-# # # # # # # # # # # # else:
-# # # # # # # # # # # #     print("list is not palindrome")
-
-
-# # # # # # # # # # # # nums = [1, 2, 3, 2, 2]
-
-# # # # # # # # # # # # if nums == nums[::-1]:   # compare list with its reverse
-# # # # # # # # # # # #     print("list is palindrome")
-
-# # # # # # # # # # # # else:
-
-# # # # # # # # # # # #     print("list is not palindrome")
+# # # # # # # # # # # print(student["subject"])
+# # # # # # # # # # # print(student.get("name"))
+# # # # # # # # # # # print(student.items())
 
 
-# # # # # # # # # # # list = ["c", "d", "a", "a", "b", "b", "a"]
-# # # # # # # # # # # # tup.count("a")
-# # # # # # # # # # # # print(tup.count("a"))
-# # # # # # # # # # # list.sort()
-# # # # # # # # # # # print(list)
+# # # # # # # # # # # info["name"] = 23
+# # # # # # # # # # # print(info)
 
-# # # # # # # # # # info = {
-# # # # # # # # # #     "key" : "value",
-# # # # # # # # # #     "name": "ram",
-# # # # # # # # # #     "topics" : "book",
-# # # # # # # # # #     "topic" : "not",
-# # # # # # # # # # }
+ 
+# # # # # # # # # # #     this 
 
-# # # # # # # # # # null_dict = {
-# # # # # # # # # #     "book" : "rpm",
-# # # # # # # # # # }
 
-# # # # # # # # # # info["name"] = "apna collage"
-# # # # # # # # # # # print(info["name"])
-# # # # # # # # # # # print(null_dict)
+
+
+# # # # # # # # # # # a = int(input("enter any first number, "))
+# # # # # # # # # # # b = int(input("enter any second number, "))
+# # # # # # # # # # # c = int(input("enter any third number, "))
+
+# # # # # # # # # # # if (a > b and a > c ):
+# # # # # # # # # # #     print("a is greatest", a)
+# # # # # # # # # # # elif (b > a and b > c ):
+# # # # # # # # # # #     print("b is greatest", b)
+# # # # # # # # # # # else :
+# # # # # # # # # # #     print("c is greatest", c)
+
+
+
+# # # # # # # # # # # a = 865 % 9
+# # # # # # # # # # # print(a)
+# # # # # # # # # # # a = (1 + 1)
+# # # # # # # # # # # print("Value of sin0 and cos0 is,",a * a  % a )
+# # # # # # # # # # # print()
 
 
 # # # # # # # # # # student = {
-# # # # # # # # # #     "name" : "hari bahadur",
-# # # # # # # # # #     "subject" : {
-# # # # # # # # # #         "phycis"    : "30",
-# # # # # # # # # #         "math"      : "40", 
-# # # # # # # # # #         "chemistry" : "60",
-
+# # # # # # # # # #     "name" : "Rahul kumar",
+# # # # # # # # # #     "sub" : "50%",
 # # # # # # # # # #     }
-# # # # # # # # # # }
 
-# # # # # # # # # # print(student["subject"]["math"])
-# # # # # # # # # # print(student.keys())
-# # # # # # # # # # print(len(list(student.keys())))
+# # # # # # # # # # print(student)
 
-# # # # # # # # # # print(student["subject"])
-# # # # # # # # # # print(student.get("name"))
-# # # # # # # # # # print(student.items())
+# # # # # # # # # # # print
 
 
-# # # # # # # # # # info["name"] = 23
-# # # # # # # # # # print(info)
-
- 
-# # # # # # # # # #     this 
-
-
-
-
-# # # # # # # # # # a = int(input("enter any first number, "))
-# # # # # # # # # # b = int(input("enter any second number, "))
-# # # # # # # # # # c = int(input("enter any third number, "))
-
-# # # # # # # # # # if (a > b and a > c ):
-# # # # # # # # # #     print("a is greatest", a)
-# # # # # # # # # # elif (b > a and b > c ):
-# # # # # # # # # #     print("b is greatest", b)
-# # # # # # # # # # else :
-# # # # # # # # # #     print("c is greatest", c)
-
-
-
-# # # # # # # # # # a = 865 % 9
-# # # # # # # # # # print(a)
-# # # # # # # # # # a = (1 + 1)
-# # # # # # # # # # print("Value of sin0 and cos0 is,",a * a  % a )
-# # # # # # # # # # print()
-
-
-# # # # # # # # # student = {
-# # # # # # # # #     "name" : "Rahul kumar",
-# # # # # # # # #     "sub" : "50%",
+# # # # # # # # # dict = {
+# # # # # # # # #     "key" : "value",
+# # # # # # # # #     "name" : "apna collage",
+# # # # # # # # #     "age " : 35,
+# # # # # # # # #     12 : 1990,
+# # # # # # # # #     "subject" : {
+# # # # # # # # #         "nothing" : " hehe",
+# # # # # # # # #         "everything" : "not ",
+# # # # # # # # #         "phsycis" : "60%",
 # # # # # # # # #     }
+# # # # # # # # # }
 
-# # # # # # # # # print(student)
+# # # # # # # # # # null_dict = {}
+# # # # # # # # # # null_dict["name"] = "hari"
+# # # # # # # # # # print(null_dict)
 
-# # # # # # # # # # print
+# # # # # # # # # # dict["name"] = "ram"
+# # # # # # # # # # dict["age"] = "shardaha"
+
+# # # # # # # # # print (dict.get("12"))
+# # # # # # # # # # print( pairs[0])
 
 
-# # # # # # # # dict = {
-# # # # # # # #     "key" : "value",
-# # # # # # # #     "name" : "apna collage",
-# # # # # # # #     "age " : 35,
-# # # # # # # #     12 : 1990,
-# # # # # # # #     "subject" : {
-# # # # # # # #         "nothing" : " hehe",
-# # # # # # # #         "everything" : "not ",
-# # # # # # # #         "phsycis" : "60%",
-# # # # # # # #     }
+# # # # # # # # # a = 1 
+# # # # # # # # # b = 2 
+# # # # # # # # # sum = a + b
+# # # # # # # # # print(sum)
+
+
+# # # # # # # # # dict.update({"name" : "ram kumar", "age": 16})
+
+# # # # # # # # # print(dict)
+
+# # # # # # # # collection = {1 , 2, 3, 5, 5, "hello world","hello world"}
+
+
+# # # # # # # # print(collection)
+
+# # # # # # # # print(len(collection))
+
+# # # # # # # # rajan = set()
+# # # # # # # # print(type(rajan))
+
+# # # # # # # # rajan.add(2)
+# # # # # # # # print(len(rajan))
+
+# # # # # # # # # rajan.remove(2)
+# # # # # # # # # print(rajan)
+
+# # # # # # # # sets2 = {"hello world","hari","hari nama","ram ram"}
+# # # # # # # # set1 = {"hello world","hari","yudeen"}
+# # # # # # # # # print(collection.pop())
+
+# # # # # # # # print(set1.union(sets2))
+# # # # # # # # print(set1.intersection(sets2))
+
+
+
+# # # # # # # # practice session 3,
+
+
+# # # # # # # # student = {
+# # # # # # # #     "table" : [" a peice of","nothing "],
+# # # # # # # #     "cat" : "a small animal" ,
 # # # # # # # # }
+# # # # # # # # print(student)
 
-# # # # # # # # # null_dict = {}
-# # # # # # # # # null_dict["name"] = "hari"
-# # # # # # # # # print(null_dict)
+# # # # # # # # subject = {
+# # # # # # # #         "python" : "hi",
+# # # # # # # #         "java" : "hi",
+# # # # # # # #         "c++" : "hi",
+# # # # # # # #         "python" : "hi",
+# # # # # # # #         "javascript" : "hi",
+# # # # # # # #         "java" : "hi",
+# # # # # # # #         "python" : "hi",
+# # # # # # # #         "java" : "hi",
+# # # # # # # #         "c++" : "hi",
+# # # # # # # #         "c" : "hi",
+# # # # # # # #     }
+# # # # # # # # print(len(subject.keys()))
 
-# # # # # # # # # dict["name"] = "ram"
-# # # # # # # # # dict["age"] = "shardaha"
+# # # # # # # marks = {}
 
-# # # # # # # # print (dict.get("12"))
-# # # # # # # # # print( pairs[0])
+# # # # # # # a = str(input("enter your phys., "))
+# # # # # # # marks.update({"physics" : a })
+# # # # # # # b = str(input("enter your che., "))
+# # # # # # # marks.update({"chemistry" : b})
+# # # # # # # c = str(input("enter your math, "))
+# # # # # # # marks.update({"math" : c})
 
-
-# # # # # # # # a = 1 
-# # # # # # # # b = 2 
-# # # # # # # # sum = a + b
-# # # # # # # # print(sum)
-
-
-# # # # # # # # dict.update({"name" : "ram kumar", "age": 16})
-
-# # # # # # # # print(dict)
-
-# # # # # # # collection = {1 , 2, 3, 5, 5, "hello world","hello world"}
-
-
-# # # # # # # print(collection)
-
-# # # # # # # print(len(collection))
-
-# # # # # # # rajan = set()
-# # # # # # # print(type(rajan))
-
-# # # # # # # rajan.add(2)
-# # # # # # # print(len(rajan))
-
-# # # # # # # # rajan.remove(2)
-# # # # # # # # print(rajan)
-
-# # # # # # # sets2 = {"hello world","hari","hari nama","ram ram"}
-# # # # # # # set1 = {"hello world","hari","yudeen"}
-# # # # # # # # print(collection.pop())
-
-# # # # # # # print(set1.union(sets2))
-# # # # # # # print(set1.intersection(sets2))
+# # # # # # # print(marks)
 
 
+# # # # # # # set = {9, '9.0'}
+# # # # # # # print(set)
 
-# # # # # # # practice session 3,
+# # # # # # # chatper 5
 
+# # # # # # # loops
 
-# # # # # # # student = {
-# # # # # # #     "table" : [" a peice of","nothing "],
-# # # # # # #     "cat" : "a small animal" ,
-# # # # # # # }
-# # # # # # # print(student)
+# # # # # # count = 1 
 
-# # # # # # # subject = {
-# # # # # # #         "python" : "hi",
-# # # # # # #         "java" : "hi",
-# # # # # # #         "c++" : "hi",
-# # # # # # #         "python" : "hi",
-# # # # # # #         "javascript" : "hi",
-# # # # # # #         "java" : "hi",
-# # # # # # #         "python" : "hi",
-# # # # # # #         "java" : "hi",
-# # # # # # #         "c++" : "hi",
-# # # # # # #         "c" : "hi",
-# # # # # # #     }
-# # # # # # # print(len(subject.keys()))
+# # # # # # while count <= 4 :
+# # # # # #     print("hello")  
+# # # # # #     count += 1
 
-# # # # # # marks = {}
+# # # # # # print(count)
 
-# # # # # # a = str(input("enter your phys., "))
-# # # # # # marks.update({"physics" : a })
-# # # # # # b = str(input("enter your che., "))
-# # # # # # marks.update({"chemistry" : b})
-# # # # # # c = str(input("enter your math, "))
-# # # # # # marks.update({"math" : c})
+# # # # # count = 5
+# # # # # while count >= 1 : 
+# # # # #     print(count)
+# # # # #     count -= 1
 
-# # # # # # print(marks)
-
-
-# # # # # # set = {9, '9.0'}
-# # # # # # print(set)
-
-# # # # # # chatper 5
-
-# # # # # # loops
-
-# # # # # count = 1 
-
-# # # # # while count <= 4 :
-# # # # #     print("hello")  
-# # # # #     count += 1
-
-# # # # # print(count)
-
-# # # # count = 5
-# # # # while count >= 1 : 
-# # # #     print(count)
-# # # #     count -= 1
-
-# # # # i = int(input("enter any number that you want to get the multipliciation table of: ")) 
-# # # # a = 1 
-# # # # while a <= 10 :
-# # # #     print(a*i)
-# # # #     a += 1
-# # # # print("loop ended")
+# # # # # i = int(input("enter any number that you want to get the multipliciation table of: ")) 
+# # # # # a = 1 
+# # # # # while a <= 10 :
+# # # # #     print(a*i)
+# # # # #     a += 1
+# # # # # print("loop ended")
  
 
-# # # # i = 1 
-# # # # while i <= 10 : 
-# # # #     print(i*i)
-# # # #     i += 1
+# # # # # i = 1 
+# # # # # while i <= 10 : 
+# # # # #     print(i*i)
+# # # # #     i += 1
 
 
-# # # # qn 5.
-# # # # nums = (1, 4, 9,  16, 25, 36, 49, 64, 81, 100)
+# # # # # qn 5.
+# # # # # nums = (1, 4, 9,  16, 25, 36, 49, 64, 81, 100)
 
-# # # # x = int(input("enter the number you want to search : "))
+# # # # # x = int(input("enter the number you want to search : "))
 
-# # # # i = 0
-# # # # while i < len(nums) :
-# # # #     if(nums[i] == x):
-# # # #         print("found at idx: ", i+1) 
-# # # #     i += 1
+# # # # # i = 0
+# # # # # while i < len(nums) :
+# # # # #     if(nums[i] == x):
+# # # # #         print("found at idx: ", i+1) 
+# # # # #     i += 1
 
-# # # # else :
-# # # #     print("there is no such number is the program")
-
-
-# # # # i = 0
-# # # # b = int(input("enter at how much you want to print, : "))
-# # # # while i <= b:
-# # # #     print(i)
-# # # #     i += 2
-
-# # # # str = ("Olin")
-# # # # for  val in str:
-# # # #     if(str == "o"):
-# # # #         print("o has found")
-# # # #         break
-# # # #     print(val)
-# # # #     print("code has end")
-
-# # # # nums = [1, 4, 9, 16, 25, 26]
-# # # # x = 9
-# # # # idx = 0
-# # # # for el in nums:
-# # # #     if (el == x):
-# # # #         print("number found at idx", idx+1)
-# # # #         break
-# # # #     idx +=1
+# # # # # else :
+# # # # #     print("there is no such number is the program")
 
 
-# # # # seq = range(100)
-# # # # for i in seq:
+# # # # # i = 0
+# # # # # b = int(input("enter at how much you want to print, : "))
+# # # # # while i <= b:
 # # # # #     print(i)
+# # # # #     i += 2
+
+# # # # # str = ("Olin")
+# # # # # for  val in str:
+# # # # #     if(str == "o"):
+# # # # #         print("o has found")
+# # # # #         break
+# # # # #     print(val)
+# # # # #     print("code has end")
+
+# # # # # nums = [1, 4, 9, 16, 25, 26]
+# # # # # x = 9
+# # # # # idx = 0
+# # # # # for el in nums:
+# # # # #     if (el == x):
+# # # # #         print("number found at idx", idx+1)
+# # # # #         break
+# # # # #     idx +=1
+
+
+# # # # # seq = range(100)
+# # # # # for i in seq:
+# # # # # #     print(i)
     
 
-# # # # for i in range(1, 100, 2):
-# # # #     print(i)
+# # # # # for i in range(1, 100, 2):
+# # # # #     print(i)
 
-# # # # i = 1
-# # # # n = int(input("enter how much you want to make the sequence, : "))
-# # # # while i <= n:
-# # # #     print(i)
-# # # #     i +=
-
-
-# # # # # print("hello world, ")
-# # # # def calc_sum(a, b):
-# # # #     sum = a + b
-# # # #     print (sum)
-# # # #     return sum
-
-# # # # calc_sum(5, 10)
-# # # # calc_sum(10, 6)
-# # # # calc_sum(1, 6)
-# # # # calc_sum(12, 6)
-# # # # calc_sum(15, 6)
+# # # # # i = 1
+# # # # # n = int(input("enter how much you want to make the sequence, : "))
+# # # # # while i <= n:
+# # # # #     print(i)
+# # # # #     i +=
 
 
-# # # # a = 5
-# # # # b = 10
+# # # # # # print("hello world, ")
+# # # # # def calc_sum(a, b):
+# # # # #     sum = a + b
+# # # # #     print (sum)
+# # # # #     return sum
 
-# # # # sum = a + b 
-# # # # print(sum)
+# # # # # calc_sum(5, 10)
+# # # # # calc_sum(10, 6)
+# # # # # calc_sum(1, 6)
+# # # # # calc_sum(12, 6)
+# # # # # calc_sum(15, 6)
 
-# # # # a = 512
-# # # # b = 10
+
+# # # # # a = 5
+# # # # # b = 10
+
+# # # # # sum = a + b 
+# # # # # print(sum)
+
+# # # # # a = 512
+# # # # # b = 10
  
-# # # # sum = a + b 
-# # # # print(sum)
+# # # # # sum = a + b 
+# # # # # print(sum)
 
-# # # # a = 52
-# # # # b = 10
+# # # # # a = 52
+# # # # # b = 10
  
-# # # # sum = a + b 
+# # # # # sum = a + b 
+# # # # # print(sum)
+
+
+# # # # def sum (a, b):
+# # # #     return a + b 
+
+# # # # sum = sum(5, 69)
 # # # # print(sum)
 
+# # # # def cal(b, a):
+# # # #     return a + b
+# # # # sum = cal(5, 9)
+# # # # print(sum)
 
-# # # def sum (a, b):
-# # #     return a + b 
+# # # def cal():
+# # #     print("print hello")
 
-# # # sum = sum(5, 69)
-# # # print(sum)
+# # #print("hello world")
+# # #print("hello world")
+# # #print("hello world")
+# # #print("hello world")
+# # #print("hello world")
 
-# # # def cal(b, a):
-# # #     return a + b
-# # # sum = cal(5, 9)
-# # # print(sum)
+# # print("apna collage", "nothing mush")
+# # ram = len("ram")
+# # print(ram)
 
-# # def cal():
-# #     print("print hello")
+# # def cal(a, b):
+# #     return a * b
+# # a = cal(2, 7)
+# # # print(a)
 
-# #print("hello world")
-# #print("hello world")
-# #print("hello world")
-# #print("hello world")
-# #print("hello world")
+# # def cities():
+# #     return 
 
-# print("apna collage", "nothing mush")
-# ram = len("ram")
-# print(ram)
 
-# def cal(a, b):
-#     return a * b
-# a = cal(2, 7)
+# # a = len(cities["itahari", "pokhari", "dharan"])
 # # print(a)
 
-# def cities():
-#     return 
+
+# # cities = ["itahari", "pokhari", "dharan"]
+# # def cal(cities):
+# #     print(cities, end = "")
+
+# # cal(cities)
+# # print(cal)
+
+# # def cal_fact(n):
+# #     fact = 1 
+# #     for i in range(1, n+1):
+# #         fact *= i
+# #     print(fact)
+# # cal_fact(6)
 
 
-# a = len(cities["itahari", "pokhari", "dharan"])
-# print(a)
+# # b = int(input("How much dollor do you want to exchange, : "))
+# # def cal(a):
+# #     return a * b
+# # calu = cal(88.78)
+# # print(calu)
+
+# #  int(input("enter your number, : "))
+# # defa = cal():
+# #     if a%2 ==0:
+# #         print("number is EVEN ", a)
+# #     else:
+# #         print("number is ODD", a)
+# #     return
+# # cal ()
+# # # print()
 
 
-# cities = ["itahari", "pokhari", "dharan"]
-# def cal(cities):
-#     print(cities, end = "")
+# # def show(n):
+# #     if(n == -100):
+# #         return
+# #     print(n)
+# #     show(n-1)
 
-# cal(cities)
-# print(cal)
+# # # print(n)
+# # show(5)
 
-# def cal_fact(n):
-#     fact = 1 
-#     for i in range(1, n+1):
-#         fact *= i
-#     print(fact)
-# cal_fact(6)
+# # def fact(n):
+# #     if (n == 0):
+# #         return 1
+# #     return fact(n-1) * n
 
+# # print(fact(9))
 
-# b = int(input("How much dollor do you want to exchange, : "))
-# def cal(a):
-#     return a * b
-# calu = cal(88.78)
-# print(calu)
+# # def cal(n):
+# #     if (n == 0):
+# #         return 0
+# #     # print(n)
+# #     return cal(n-1) + 5
 
-#  int(input("enter your number, : "))
-# defa = cal():
-#     if a%2 ==0:
-#         print("number is EVEN ", a)
-#     else:
-#         print("number is ODD", a)
-#     return
-# cal ()
-# # print()
+# # sum = cal(5)
+# # print(sum)
 
-
-# def show(n):
-#     if(n == -100):
-#         return
-#     print(n)
-#     show(n-1)
-
-# # print(n)
-# show(5)
-
-# def fact(n):
-#     if (n == 0):
-#         return 1
-#     return fact(n-1) * n
-
-# print(fact(9))
-
-# def cal(n):
-#     if (n == 0):
-#         return 0
-#     # print(n)
-#     return cal(n-1) + 5
-
-# sum = cal(5)
-# print(sum)
-
-# chapter 7 file I/O 
+# # chapter 7 file I/O 
 
 # f = open("demo.txt", "r")
 # data = f.read()
@@ -695,42 +695,205 @@
 # print(type(data))
 # f.close()
 
-# a = 5
-# b = 6
+# # a = 5
+# # b = 6
  
-# sum = a + b 
-# difference = a - b 
-# print(sum)
-# print(difference) 
+# # sum = a + b 
+# # difference = a - b 
+# # print(sum)
+# # print(difference) 
 
 
-# class student:
-#     name = "karan katuwal"
-#     def __init__(self):  
-#         print(self)  
-#         print("adding new student in database")
+# # class student:
+# #     name = "karan katuwal"
+# #     def __init__(self):  
+# #         print(self)  
+# #         print("adding new student in database")
     
-#     role = "41"
-# s1 = student()
-# print(s1.name, s1.role)
+# #     role = "41"
+# # s1 = student()
+# # print(s1.name, s1.role)
 
-# class car :
-#     color = "blue"
-#     model = "Tata Neno"
+# # class car :
+# #     color = "blue"
+# #     model = "Tata Neno"
 
-# car1 = car()
-# print(car1.color, car1.model)
-# print(car1)
-
-
+# # car1 = car()
+# # print(car1.color, car1.model)
+# # print(car1)
 
 
-# a = float(input("enter any num. U want to know it's sign, : "))
-# if a % 2 ==0:
-#     print("number is Even")
+
+
+# # a = float(input("enter any num. U want to know it's sign, : "))
+# # if a % 2 ==0:
+# #     print("number is Even")
+# # else:
+# #     print("number is ODD")
+
+
+# # class student:
+
+# #     collage = "ABC collage"
+# #     name = "ram"
+# #     def __init__(self, name, marks):
+# #         self.name = name
+# #         self.marks=marks
+# #         # print("adding new student in database")
+
+# #     def hell():
+# #         print("welcome student")
+
+# # s1 = hell("welcome")
+# # print(s1.hell)
+# # s2 = student("arun", 88)
+# # print(s2.name, s2.marks)
+
+# str = input("who is the first women programmer : ")
+# b = "lady augusta lovlace"
+# if str == b:
+#     print("your right")
 # else:
-#     print("number is ODD")
+#     print("your wrong")
 
+# str = input("who is hensome : ")
+# b = "prashan"
+# if str == b:
+#     print("your right")
+# else:
+#     print("your wrong")
+
+# str = input("who are you : ")
+# b = "yudeen"
+# if str == b:
+#     print("your right")
+# else:
+#     print("your wrong")
+
+
+
+# # a = 5 
+# # b = int(input("give a number between 1 to 10"))
+# # if a == b:
+# #     print("your right")
+# # else:
+# #     print("your wrong")    
+
+
+# import random
+# a = input("start the match ")
+# print(a)
+# dict = [1, 2, 3, 4, 5, 6]
+# random = random.choice(dict)
+# print(random)
+
+
+# from pytube import YouTube
+
+# # Use the CLEAN URL without the extra playlist/radio parameters
+# video_url = "https://www.youtube.com/watch?v=mFHRYMdhM6w"
+
+# try:
+#     # Create a YouTube object
+#     yt = YouTube(video_url)
+
+#     # Print some video details
+#     print(f"Title: {yt.title}")
+#     print(f"Views: {yt.views}")
+
+#     # Get the highest resolution stream available
+#     stream = yt.streams.get_highest_resolution()
+
+#     # Start downloading
+#     print(f"Downloading: {yt.title}...")
+#     stream.download() 
+    
+#     print("Download completed successfully!")
+
+# except Exception as e:
+#     # This block will now only catch other potential errors (like network issues)
+#     print(f"An error occurred: {e}")
+
+
+
+# a = int(input("enter first number:"))
+# b = int(input("enter second number:"))
+# h = input("enter any operator")
+# if h == "+" :
+#     c = a + b
+#     print("your answer is, ",c)
+# elif h == "-" :
+#     c = a - b
+#     print("your answer is, ",c)
+# elif h == "*":
+#     c = a * b
+#     print("your answer is, ",c)
+# elif h =="/":
+#     c = a / b 
+#     print("your answer is, ",c)
+# elif h == "%":
+#     c = a % b
+#     print("your answer is, ",c)
+ 
+# import random
+# dict = ["stone", "paper", "scissor"]
+# a = random.choice(dict)
+# b =  input("enter your element: ")
+# print("Computers is ",a)
+# if a == "stone" and b == "stone" :
+#     print("the match is draw")
+# elif a == "stone" and b == "paper" :
+#     print("you won ", b)
+# elif a == "stone" and b == "scissor" :
+#     print("you lose ", b)
+# elif a == "paper" and b == "stone" :
+#     print("you lose ", b)
+# elif a == "paper" and b == "paper" :
+#     print("the match is draw ", b)
+# elif a == "paper" and b == "scissor" :
+#     print("you won ", b)
+# elif a == "scissor" and b == "stone" :
+#     print("you won ", b)
+# elif a == "scissor" and b == "paper" :
+#     print("you lose ", b)
+# elif a == "scissor" and b == "scissor" :
+#     print("The match is draw ", b)
+
+# print(d)
+
+
+# a = input("enter the thing you want to calculate")
+
+# # print(a)
+
+# f = open("demo.txt", "r")
+# data = f.read()
+# print(data)
+# print(type(data))
+# f.close()
+
+
+# f = open("demo.txt", "r")
+# data = f.read()
+# print(data)
+# f.close
+
+print("This is a Number Analyzer")
+a = int(input("enter any number, "))
+if a % 2 == 0:
+    print("number is EVEN", a)
+else:
+    print("number is ODD", a)
+if a <= 0:
+    print("number is negative")
+else:
+    print("number is positive")
+if a%1 != 0 and a%a != 0:
+    print("number is not prime number ", a)
+else:
+    print("number is prime number ", a)
+if a%5 == 0:
+    print("number is multiple of 5", a) 
 
 
 

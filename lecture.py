@@ -898,5 +898,92 @@
 #     print("number is not multiple of 5 ",a)
 
 
+# #2. 
+# dict = ["book", "holder", "bag"]
+# str = input("enter any word that you want to know : ")
+# book = "paper made object where words are written"
+# holder = "which holds object "
+# bag = "where object can get carried"
+# if str == "book":
+#     print(book)
+# elif str == "holder":
+#     print(holder)
+# elif str == "bag":
+#     print(bag)
+# else:
+#     print("Not found in the dictineies")
+
+
+
+# print("welcome to Student grading system !!")
+# z = input("enter name of student : ")
+# a = int(input("enter marks of student in phys: "))
+# b = int(input("enter marks of student in chem: "))
+# # c = input("enter marks of student in math: ")
+
+# if a >= 90:
+#     print(z, "got A in physics")
+# elif a >= 80:
+#     print(z, "got B in physics")
+# elif a >= 70:
+#     print(z, "got C in physcis")
+# else:
+#     print(z, "got less then C in physcis")
+
+# if b >= 90:
+#     print(z, "got A in chemistry")
+# elif b >= 80:
+#     print(z, "got Bin chemistry")
+# elif b >= 70:
+#     print(z,"got Cin chemistry")
+# else:
+#     print(z, "got less then C in chemistry")
+
+
+
+
+
+# print("This is a password strength checker")
+# b = "a"
+# a = "b"
+# c = "c"
+# d = "d"
+# e = "e"
+# f = "f"
+# g = "g"
+# h = 'h'
+# str = input("enter your password : ")
+# if str != a or str !=b or str != c or str != d:
+#     print("your password is weak")
+# else:
+#     print("your password is strong")
+
+# class student:
+#     collage_name= "ABC collage"
+#     def__init__(self, name, marks):
+#         self.name = name
+#         self.marks = marks
+    
+# s1. student("karna", 97)
+# s1.welcome(
+#     print(s1.get_marks())
+# )
+
+# a = "Salary finder"
+# print(a)
+
+# salary = str(input("Enter your post"))
+# # Print("Salary finder")
+
+# if salary == "ceo":
+#     print("Your salary is,  1LPA")
+# elif salary == "janator":
+#     print("Your salary is, 15k")
+# elif salary == "teacher":
+#     print("Your salary is, 45k")
+# else:
+#     print("Ur not in our list")
+
+
 
 

@@ -915,29 +915,29 @@
 
 
 
-# print("welcome to Student grading system !!")
-# z = input("enter name of student : ")
-# a = int(input("enter marks of student in phys: "))
-# b = int(input("enter marks of student in chem: "))
-# # c = input("enter marks of student in math: ")
+print("welcome to Student grading system !!")
+z = input("enter name of student : ")
+a = int(input("enter marks of student in phys: "))
+b = int(input("enter marks of student in chem: "))
+# c = input("enter marks of student in math: ")
 
-# if a >= 90:
-#     print(z, "got A in physics")
-# elif a >= 80:
-#     print(z, "got B in physics")
-# elif a >= 70:
-#     print(z, "got C in physcis")
-# else:
-#     print(z, "got less then C in physcis")
+if a >= 90:
+    print(z, "got A in physics")
+elif a >= 80:
+    print(z, "got B in physics")
+elif a >= 70:
+    print(z, "got C in physcis")
+else:
+    print(z, "got less then C in physcis")
 
-# if b >= 90:
-#     print(z, "got A in chemistry")
-# elif b >= 80:
-#     print(z, "got Bin chemistry")
-# elif b >= 70:
-#     print(z,"got Cin chemistry")
-# else:
-#     print(z, "got less then C in chemistry")
+if b >= 90:
+    print(z, "got A in chemistry")
+elif b >= 80:
+    print(z, "got Bin chemistry")
+elif b >= 70:
+    print(z,"got Cin chemistry")
+else:
+    print(z, "got less then C in chemistry")
 
 
 
@@ -972,14 +972,13 @@
 # a = "Salary finder"
 # print(a)
 
-# salary = str(input("Enter your post"))
-# # Print("Salary finder")
+# salary = str(input("Enter your post : "))
 
-# if salary == "ceo":
+# if salary.lower() == "ceo":
 #     print("Your salary is,  1LPA")
-# elif salary == "janator":
+# elif salary.lower() == "janator":
 #     print("Your salary is, 15k")
-# elif salary == "teacher":
+# elif salary.lower() == "teacher":
 #     print("Your salary is, 45k")
 # else:
 #     print("Ur not in our list")

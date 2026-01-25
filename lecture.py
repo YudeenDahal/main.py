@@ -756,8 +756,8 @@
 # # else:
 # #     print("your wrong")
 
-# # str = input("who is hensome : ")
-# # b = "prashan"
+# # str = input("who is handsome : ")
+# # b = "prasantha"
 # # if str == b:
 # #     print("your right")
 # # else:
@@ -911,7 +911,7 @@
 # elif str == "bag":
 #     print(bag)
 # else:
-#     print("Not found in the dictineies")
+#     print("Not found in the dictionary")
 
 
 
@@ -926,9 +926,9 @@
 # elif a >= 80:
 #     print(z, "got B in physics")
 # elif a >= 70:
-#     print(z, "got C in physcis")
+#     print(z, "got C in physic")
 # else:
-#     print(z, "got less then C in physcis")
+#     print(z, "got less then C in physic")
 
 # if b >= 90:
 #     print(z, "got A in chemistry")
@@ -992,4 +992,10 @@
 # print("the sum of two number is : ", sum)
 
 import numpy as np
-print(np.arange(5))
+
+arr = np.array([1, 2, 3, 4, 5])
+
+print(arr)
+print(type(arr))
+
+#numpy version

@@ -991,11 +991,61 @@
 # sum = a + b 
 # print("the sum of two number is : ", sum)
 
-import numpy as np
+# import numpy as np
 
-arr = np.array([1, 2, 3, 4, 5])
+# arr1 = np.array([1, 2, 3, 4, 5])
 
-print(arr)
-print(type(arr))
+# print(arr1)
+# print(type(arr1))
 
-#numpy version
+# #numpy version
+# print(np.__version__)
+# arr2 = np.array([1, 2, 3, 4, 5], dtype='float32')
+# print(arr2)
+
+# arr3 = np.array ((, 2, 3, 4, 5, 6))
+# print(arr3)
+
+
+# #this is zero dimensional array
+# arr = np.array(42)
+# print(arr)
+# arr =  np.array([1,2,1,2,1,2,12,2])
+# print(arr)
+
+
+# import random 
+# a = int(input("enter any one number "))
+# b = random.randint(1, 10)
+# if a == random:
+#     print("you win the game by ", a - b)
+# else:
+#     print("the computer chose the number : ",b)
+#     print("you lose the game by ", b - a)
+
+# a = random.
+
+import time
+
+def type_line(text, char_delay=0.05):
+    for ch in text:
+        print(ch, end="", flush=True)
+        time.sleep(char_delay)
+    print()  # new line after finishing a line
+
+
+lines = [
+    (0.0,  "Thodi shikayat main karoon"),   # placeholder for first line
+    (3.0,  "Naraaz bas na hona tu zindagi"),
+    (8.0,  "Kuch toh bata zindagi"),
+    (10.5,  "Apna pata zindagi"),
+    (13.0, "Kuch toh bata zindagi"),     # placeholder for last word
+]
+
+start_time = time.time()
+
+for delay, line in lines:
+    while time.time() - start_time < delay:
+        time.sleep(char_delay)
+    type_line(line, char_delay=0.15)
+

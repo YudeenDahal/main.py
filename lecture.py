@@ -1025,30 +1025,41 @@
 
 # a = random.
 
-import time
+# import time
 
-def type_line(text, char_delay=0.05):
-    for ch in text:
-        print(ch, end="", flush=True)
-        time.sleep(char_delay)
-    print()  # new line after finishing a line
+# def type_line(text, char_delay=0.05):
+#     for ch in text:
+#         print(ch, end="", flush=True)
+#         time.sleep(char_delay)
+#     print()  # new line after finishing a line
 
 
-lines = [
-    (0.0,  "Thodi shikayat main karoon"),   # placeholder for first line
-    (3.0,  "Naraaz bas na hona tu zindagi"),
-    (3.0,  "            "),
-    (8.0,  "Kuch toh bata zindagi"),
-    (3.0,  "               "),
-    (10.5,  "Apna pata zindagi"),
-    (3.0,  "                   "),
-    (13.0, "Kuch toh bata zindagi"),     # placeholder for last word
-]
+# lines = [
+#     (0.0,  "Thodi shikayat main karoon"),   # placeholder for first line
+#     (3.0,  "Naraaz bas na hona tu zindagi"),
+#     (3.0,  "            "),
+#     (8.0,  "Kuch toh bata zindagi"),
+#     (3.0,  "               "),
+#     (10.5,  "Apna pata zindagi"),
+#     (3.0,  "                   "),
+#     (13.0, "Kuch toh bata zindagi"),     # placeholder for last word
+# ]
 
-start_time = time.time()
+# start_time = time.time()
 
-for delay, line in lines:
-    while time.time() - start_time < delay:
-        time.sleep(char_delay)
-    type_line(line, char_delay=0.19)
+# for delay, line in lines:
+#     while time.time() - start_time < delay:
+#         time.sleep(char_delay)
+#     type_line(line, char_delay=0.19)
 
+
+
+
+
+import numpy as np
+
+print(np.__version__)
+
+arr = np.array([1,2,1,2,1])
+print(arr)
+print(type(arr))

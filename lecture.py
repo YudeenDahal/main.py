@@ -1037,8 +1037,11 @@ def type_line(text, char_delay=0.05):
 lines = [
     (0.0,  "Thodi shikayat main karoon"),   # placeholder for first line
     (3.0,  "Naraaz bas na hona tu zindagi"),
+    (3.0,  "            "),
     (8.0,  "Kuch toh bata zindagi"),
+    (3.0,  "               "),
     (10.5,  "Apna pata zindagi"),
+    (3.0,  "                   "),
     (13.0, "Kuch toh bata zindagi"),     # placeholder for last word
 ]
 
@@ -1047,5 +1050,5 @@ start_time = time.time()
 for delay, line in lines:
     while time.time() - start_time < delay:
         time.sleep(char_delay)
-    type_line(line, char_delay=0.15)
+    type_line(line, char_delay=0.19)
 

@@ -1056,11 +1056,92 @@
 
 
 
-import numpy as np
+# import numpy as np
 
-print(np.__version__)
+# print(np.__version__)
 
-arr = np.array([1,2,1,2,1])
-print(arr)
-print(type(arr))
-print("hello world")
+# arr = np.array([1,2,1,2,1])
+# print(arr)
+# print(type(arr))
+# print("hello world")
+
+
+
+# starting a new journey for python 
+
+# video no 1 revise 
+# a = int(input("enter any number : "))
+# b = int(input("enter any number : "))
+# sum = a + b
+# print("their sum is : ", sum)
+
+#video no 2 
+# marks = [10, 20, 30 , 40 ]
+# print(marks)
+# print(type(marks))
+# print(marks[1:])
+
+#video 3
+# a = []
+# for i in range(3):
+#     num = str(input("enter any three favourite movies : "))
+#     a.append(num)
+# b = a.copy()
+# b.reverse()
+# for j in range(3):
+#     if a[j] == b[j]:
+#         print("your favourite string is palindrome : " + a[j])
+#     else:
+#         print("your given string are not palindrome : " + a[j])
+
+
+# dict = {}
+# print(type(dict))
+# dict["table"] = "a piece of furniture" "list of facts and figures"
+# dict["cat"] = "a small animal"
+# print(dict)
+# a = 0
+# list = ["c", "d", "a", "a", "b", "b", "a", "b", "b", "a"]
+# n = len(list)
+# for i in range(n):
+#     a = a + 1
+# print(a)
+
+# dict = {}
+# print(type(dict))
+# a = int(input("enter the marks of physics : "))
+# b = int(input("enter the marks of chemistry : "))
+# c = int(input("enter the marks of mathematics : "))
+# dict["physics"] = a
+# dict["chemistry"] = b   
+# dict["mathematics"] = c
+# print(dict)
+
+
+# c = set()
+# c.add(9)
+# c.add("9.0")
+# print(c)
+
+# a = 1 
+# b = 3
+# c = 4
+# print(a)
+# print(c)
+# for i in range(8):
+#     b = b + 2 
+#     c = c + b
+#     print(c)
+    
+z = int(input("enter any number you want to find the index of : "))
+
+tup = (1,4,9,16,25,36,49,64,81,100)
+for i in range(len(tup)):
+    if tup[i] == z:
+        print("number is found at index : ", i)
+        break   
+# x = tup.index(z)
+# if  x == 0 and x == 1 and x == 2 and x == 3 and x == 4 and x == 5 and x == 6 and x == 7 and x == 8 and x == 9:
+#     print("number is found at index : ", x)
+# else:
+#     print("number is not found in the tuple")
